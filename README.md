@@ -1,9 +1,8 @@
 # MEMZ-Python-Remix
 English Version:
 MEMZ in python(dangerous code removed)
-Requred Software:
-Python:https://www.python.org/downloads/
-pywin32
+1.Requred Software:Python:https://www.python.org/downloads/
+2.pywin32
 How to install pywin32 in python:
 1.Open Search
 2.Type Cmd (Click Run With Administrator)
