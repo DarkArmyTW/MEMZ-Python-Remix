@@ -7,7 +7,7 @@ How to install pywin32 in python:
 1.Open Search
 2.Type Cmd (Click Run With Administrator)
 3.Type pip install pywin32
-You May Need To Disable Windows Defender To Allow The Program to Run Normally
+You May Need To Disable Windows Defender To Allow The Program to Run Normally.(Layout refuses to work properly)
 
 中文版:
 Python 中的 MEMZ（已移除危險程式碼）
