@@ -21,7 +21,7 @@ pywin32
 3. 輸入 pip install pywin32
 4. 您可能需要停用 Windows Defender 才能讓程式正常運作。
 
-5. Versión en español:
+Versión en español:
 MEMZ en Python (código peligroso eliminado)
 Software necesario:
 Python: https://www.python.org/downloads/
